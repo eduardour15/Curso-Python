@@ -1,0 +1,21 @@
+RUTA PROYECTO: 
+
+C:\Users\lalou\PycharmProjects\pythonProject-carcip
+
+RUTA AMBIENTE: 
+
+C:\Users\lalou\PycharmProjects\pythonProject-carcip\venv-carcip
+
+RUTA SABADO 1: 
+C:\Users\lalou\PycharmProjects\pythonProject-carcip\venv-carcip\clase-sabado-01
+
+
+RUTA DE LOS SCRIPTS: 
+C:\Users\lalou\AppData\Roaming\Python\Python39\Scripts
+
+
+
+comandos: 
+python -m pydoc -w
+python -m pydoc -p 1234
+
